@@ -1,4 +1,4 @@
-# SHA512
+# SHA512 - GUI INCLUDED !!!
 
 Pequeño programa que calcula la función resumen de una cadena usando el algoritmo SHA512 y permite copiar la salida al portapapels.
 También tiene la opción de añadir sal.
